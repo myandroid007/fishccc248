@@ -1,0 +1,279 @@
+
+ancientcrocodile.png
+size: 240,1030
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+amcient_00000
+  rotate: true
+  xy: 196, 887
+  size: 74, 38
+  orig: 75, 38
+  offset: 0, 0
+  index: -1
+amcient_00001
+  rotate: true
+  xy: 155, 883
+  size: 74, 38
+  orig: 75, 38
+  offset: 0, 0
+  index: -1
+amcient_00002
+  rotate: false
+  xy: 132, 351
+  size: 74, 38
+  orig: 75, 38
+  offset: 0, 0
+  index: -1
+amcient_00003
+  rotate: false
+  xy: 132, 311
+  size: 74, 38
+  orig: 75, 38
+  offset: 0, 0
+  index: -1
+amcient_00004
+  rotate: false
+  xy: 132, 271
+  size: 74, 38
+  orig: 75, 38
+  offset: 0, 0
+  index: -1
+amcient_00005
+  rotate: false
+  xy: 113, 231
+  size: 74, 38
+  orig: 75, 38
+  offset: 0, 0
+  index: -1
+amcient_00006
+  rotate: false
+  xy: 2, 200
+  size: 74, 38
+  orig: 75, 38
+  offset: 0, 0
+  index: -1
+amcient_00007
+  rotate: false
+  xy: 2, 160
+  size: 74, 38
+  orig: 75, 38
+  offset: 0, 0
+  index: -1
+amcient_00008
+  rotate: false
+  xy: 111, 191
+  size: 74, 38
+  orig: 75, 38
+  offset: 0, 0
+  index: -1
+amcient_00009
+  rotate: false
+  xy: 111, 151
+  size: 74, 38
+  orig: 75, 38
+  offset: 0, 0
+  index: -1
+amcient_00010
+  rotate: false
+  xy: 2, 120
+  size: 74, 38
+  orig: 75, 38
+  offset: 0, 0
+  index: -1
+amcient_00011
+  rotate: false
+  xy: 78, 111
+  size: 74, 38
+  orig: 75, 38
+  offset: 0, 0
+  index: -1
+amcient_00012
+  rotate: false
+  xy: 2, 80
+  size: 74, 38
+  orig: 75, 38
+  offset: 0, 0
+  index: -1
+amcient_00013
+  rotate: true
+  xy: 2, 4
+  size: 74, 38
+  orig: 75, 38
+  offset: 0, 0
+  index: -1
+amcient_00014
+  rotate: true
+  xy: 42, 4
+  size: 74, 38
+  orig: 75, 38
+  offset: 0, 0
+  index: -1
+eyu001_00000
+  rotate: false
+  xy: 132, 461
+  size: 97, 45
+  orig: 98, 45
+  offset: 0, 0
+  index: -1
+img_01
+  rotate: true
+  xy: 2, 636
+  size: 258, 132
+  orig: 259, 132
+  offset: 0, 0
+  index: -1
+img_02
+  rotate: true
+  xy: 136, 508
+  size: 339, 99
+  orig: 339, 112
+  offset: 0, 13
+  index: -1
+img_03
+  rotate: true
+  xy: 78, 166
+  size: 20, 31
+  orig: 20, 31
+  offset: 0, 0
+  index: -1
+img_04
+  rotate: true
+  xy: 82, 2
+  size: 53, 52
+  orig: 54, 53
+  offset: 0, 1
+  index: -1
+img_05
+  rotate: false
+  xy: 154, 102
+  size: 61, 44
+  orig: 61, 44
+  offset: 0, 0
+  index: -1
+img_06
+  rotate: false
+  xy: 136, 849
+  size: 49, 32
+  orig: 50, 33
+  offset: 0, 1
+  index: -1
+img_07
+  rotate: false
+  xy: 189, 213
+  size: 48, 34
+  orig: 49, 34
+  offset: 0, 0
+  index: -1
+img_08
+  rotate: true
+  xy: 78, 188
+  size: 50, 31
+  orig: 51, 31
+  offset: 0, 0
+  index: -1
+img_09
+  rotate: true
+  xy: 208, 338
+  size: 44, 28
+  orig: 44, 28
+  offset: 0, 0
+  index: -1
+img_10
+  rotate: true
+  xy: 82, 57
+  size: 52, 58
+  orig: 52, 59
+  offset: 0, 1
+  index: -1
+img_11
+  rotate: true
+  xy: 187, 148
+  size: 63, 50
+  orig: 64, 51
+  offset: 0, 1
+  index: -1
+img_12
+  rotate: false
+  xy: 195, 849
+  size: 43, 36
+  orig: 43, 37
+  offset: 0, 1
+  index: -1
+img_13
+  rotate: false
+  xy: 136, 11
+  size: 36, 44
+  orig: 37, 45
+  offset: 0, 1
+  index: -1
+img_14
+  rotate: false
+  xy: 211, 384
+  size: 24, 13
+  orig: 25, 13
+  offset: 0, 0
+  index: -1
+img_15
+  rotate: true
+  xy: 2, 290
+  size: 344, 128
+  orig: 345, 129
+  offset: 0, 1
+  index: -1
+img_16
+  rotate: true
+  xy: 196, 963
+  size: 65, 39
+  orig: 66, 39
+  offset: 0, 0
+  index: -1
+img_17
+  rotate: true
+  xy: 208, 249
+  size: 49, 21
+  orig: 49, 22
+  offset: 0, 1
+  index: -1
+img_18
+  rotate: true
+  xy: 211, 399
+  size: 60, 25
+  orig: 61, 26
+  offset: 0, 1
+  index: -1
+img_19
+  rotate: true
+  xy: 208, 300
+  size: 36, 22
+  orig: 37, 22
+  offset: 0, 0
+  index: -1
+img_20
+  rotate: false
+  xy: 2, 240
+  size: 109, 48
+  orig: 110, 49
+  offset: 0, 1
+  index: -1
+img_21
+  rotate: false
+  xy: 2, 959
+  size: 192, 69
+  orig: 192, 70
+  offset: 0, 1
+  index: -1
+img_22
+  rotate: false
+  xy: 2, 896
+  size: 151, 61
+  orig: 151, 61
+  offset: 0, 0
+  index: -1
+img_23
+  rotate: false
+  xy: 132, 391
+  size: 77, 68
+  orig: 77, 68
+  offset: 0, 0
+  index: -1

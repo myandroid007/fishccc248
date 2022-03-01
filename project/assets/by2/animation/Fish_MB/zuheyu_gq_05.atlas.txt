@@ -1,0 +1,41 @@
+
+zuheyu_gq_05.png
+size: 867,275
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang_1
+  rotate: true
+  xy: 274, 2
+  size: 271, 252
+  orig: 273, 254
+  offset: 1, 1
+  index: -1
+guang_2
+  rotate: false
+  xy: 717, 102
+  size: 21, 21
+  orig: 23, 23
+  offset: 1, 1
+  index: -1
+quan_01
+  rotate: true
+  xy: 2, 2
+  size: 271, 270
+  orig: 272, 272
+  offset: 1, 1
+  index: -1
+quan_2
+  rotate: false
+  xy: 528, 85
+  size: 187, 188
+  orig: 189, 189
+  offset: 1, 1
+  index: -1
+quan_3
+  rotate: false
+  xy: 717, 125
+  size: 148, 148
+  orig: 150, 150
+  offset: 1, 1
+  index: -1

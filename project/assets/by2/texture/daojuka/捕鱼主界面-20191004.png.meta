@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "0023ba69-005a-404f-8197-4bba03c350ba",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1400,
+  "height": 640,
+  "platformSettings": {},
+  "subMetas": {
+    "捕鱼主界面-20191004": {
+      "ver": "1.0.6",
+      "uuid": "42063b00-8623-4f76-ac1b-b9ae89ef11e3",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "0023ba69-005a-404f-8197-4bba03c350ba",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1400,
+      "height": 640,
+      "rawWidth": 1400,
+      "rawHeight": 640,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

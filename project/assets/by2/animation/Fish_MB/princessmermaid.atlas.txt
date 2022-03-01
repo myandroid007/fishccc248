@@ -1,0 +1,272 @@
+
+princessmermaid.png
+size: 993,959
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00002
+  rotate: false
+  xy: 160, 215
+  size: 17, 34
+  orig: 17, 34
+  offset: 0, 0
+  index: -1
+L/00
+  rotate: false
+  xy: 2, 208
+  size: 156, 300
+  orig: 156, 300
+  offset: 0, 0
+  index: -1
+L/01
+  rotate: false
+  xy: 329, 409
+  size: 156, 300
+  orig: 156, 300
+  offset: 0, 0
+  index: -1
+L/02
+  rotate: true
+  xy: 160, 251
+  size: 156, 300
+  orig: 156, 300
+  offset: 0, 0
+  index: -1
+L/03
+  rotate: false
+  xy: 487, 429
+  size: 156, 300
+  orig: 156, 300
+  offset: 0, 0
+  index: -1
+L/04
+  rotate: false
+  xy: 720, 657
+  size: 156, 300
+  orig: 156, 300
+  offset: 0, 0
+  index: -1
+L/05
+  rotate: true
+  xy: 179, 93
+  size: 156, 300
+  orig: 156, 300
+  offset: 0, 0
+  index: -1
+L/06
+  rotate: false
+  xy: 645, 355
+  size: 156, 300
+  orig: 156, 300
+  offset: 0, 0
+  index: -1
+L/07
+  rotate: false
+  xy: 803, 312
+  size: 156, 300
+  orig: 156, 300
+  offset: 0, 0
+  index: -1
+L/08
+  rotate: false
+  xy: 487, 127
+  size: 156, 300
+  orig: 156, 300
+  offset: 0, 0
+  index: -1
+L/09
+  rotate: false
+  xy: 645, 53
+  size: 156, 300
+  orig: 156, 300
+  offset: 0, 0
+  index: -1
+Light00
+  rotate: false
+  xy: 160, 409
+  size: 167, 300
+  orig: 167, 300
+  offset: 0, 0
+  index: -1
+img-1
+  rotate: true
+  xy: 481, 85
+  size: 40, 123
+  orig: 40, 123
+  offset: 0, 0
+  index: -1
+img-10
+  rotate: true
+  xy: 461, 37
+  size: 46, 108
+  orig: 46, 108
+  offset: 0, 0
+  index: -1
+img-13
+  rotate: false
+  xy: 943, 664
+  size: 48, 122
+  orig: 48, 122
+  offset: 0, 0
+  index: -1
+img-15
+  rotate: false
+  xy: 803, 199
+  size: 90, 111
+  orig: 90, 111
+  offset: 0, 0
+  index: -1
+img-155
+  rotate: true
+  xy: 438, 731
+  size: 226, 280
+  orig: 226, 280
+  offset: 0, 0
+  index: -1
+img-17
+  rotate: false
+  xy: 822, 614
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+img-18
+  rotate: false
+  xy: 803, 614
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+img-1888
+  rotate: false
+  xy: 878, 614
+  size: 18, 343
+  orig: 18, 343
+  offset: 0, 0
+  index: -1
+img-2
+  rotate: false
+  xy: 898, 788
+  size: 52, 169
+  orig: 52, 169
+  offset: 0, 0
+  index: -1
+img-20
+  rotate: false
+  xy: 462, 357
+  size: 17, 50
+  orig: 17, 50
+  offset: 0, 0
+  index: -1
+img-21
+  rotate: false
+  xy: 895, 87
+  size: 70, 103
+  orig: 70, 103
+  offset: 0, 0
+  index: -1
+img-22
+  rotate: true
+  xy: 895, 192
+  size: 118, 64
+  orig: 118, 64
+  offset: 0, 0
+  index: -1
+img-26
+  rotate: false
+  xy: 952, 825
+  size: 32, 132
+  orig: 32, 132
+  offset: 0, 0
+  index: -1
+img-29
+  rotate: true
+  xy: 330, 2
+  size: 42, 107
+  orig: 42, 107
+  offset: 0, 0
+  index: -1
+img-3
+  rotate: false
+  xy: 2, 510
+  size: 156, 447
+  orig: 156, 447
+  offset: 0, 0
+  index: -1
+img-31
+  rotate: true
+  xy: 179, 7
+  size: 29, 106
+  orig: 29, 106
+  offset: 0, 0
+  index: -1
+img-32
+  rotate: false
+  xy: 860, 60
+  size: 33, 137
+  orig: 33, 137
+  offset: 0, 0
+  index: -1
+img-36
+  rotate: false
+  xy: 2, 7
+  size: 175, 199
+  orig: 175, 199
+  offset: 0, 0
+  index: -1
+img-4
+  rotate: false
+  xy: 803, 56
+  size: 55, 141
+  orig: 55, 141
+  offset: 0, 0
+  index: -1
+img-5
+  rotate: true
+  xy: 179, 38
+  size: 53, 149
+  orig: 53, 149
+  offset: 0, 0
+  index: -1
+img-55
+  rotate: false
+  xy: 160, 711
+  size: 276, 246
+  orig: 276, 246
+  offset: 0, 0
+  index: -1
+img-66
+  rotate: false
+  xy: 898, 629
+  size: 43, 157
+  orig: 43, 157
+  offset: 0, 0
+  index: -1
+img-6655
+  rotate: false
+  xy: 645, 703
+  size: 73, 26
+  orig: 73, 26
+  offset: 0, 0
+  index: -1
+img-7
+  rotate: false
+  xy: 895, 37
+  size: 60, 48
+  orig: 60, 48
+  offset: 0, 0
+  index: -1
+img-8
+  rotate: true
+  xy: 803, 630
+  size: 25, 60
+  orig: 25, 60
+  offset: 0, 0
+  index: -1
+img-9
+  rotate: true
+  xy: 330, 46
+  size: 45, 129
+  orig: 45, 129
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+featherlikefish.png
+size: 141,140
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img-1
+  rotate: true
+  xy: 2, 3
+  size: 18, 30
+  orig: 19, 30
+  offset: 1, 0
+  index: -1
+img-2
+  rotate: false
+  xy: 81, 115
+  size: 58, 10
+  orig: 58, 10
+  offset: 0, 0
+  index: -1
+img-3
+  rotate: false
+  xy: 2, 23
+  size: 94, 41
+  orig: 97, 41
+  offset: 0, 0
+  index: -1
+img-4
+  rotate: false
+  xy: 81, 101
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+img-5
+  rotate: true
+  xy: 98, 27
+  size: 86, 39
+  orig: 87, 39
+  offset: 1, 0
+  index: -1
+img-6
+  rotate: true
+  xy: 98, 2
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+img-7
+  rotate: false
+  xy: 81, 127
+  size: 58, 11
+  orig: 58, 11
+  offset: 0, 0
+  index: -1
+img_8
+  rotate: false
+  xy: 2, 66
+  size: 77, 72
+  orig: 77, 72
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+lanternfish.png
+size: 202,78
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img-1
+  rotate: false
+  xy: 138, 52
+  size: 60, 24
+  orig: 60, 24
+  offset: 0, 0
+  index: -1
+img-2
+  rotate: true
+  xy: 174, 26
+  size: 24, 26
+  orig: 27, 29
+  offset: 3, 0
+  index: -1
+img-3
+  rotate: true
+  xy: 102, 23
+  size: 53, 34
+  orig: 55, 34
+  offset: 0, 0
+  index: -1
+img-4
+  rotate: false
+  xy: 102, 4
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+img-5
+  rotate: false
+  xy: 138, 15
+  size: 34, 35
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+img-6
+  rotate: true
+  xy: 174, 2
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+img-7
+  rotate: false
+  xy: 2, 5
+  size: 98, 71
+  orig: 98, 71
+  offset: 0, 0
+  index: -1

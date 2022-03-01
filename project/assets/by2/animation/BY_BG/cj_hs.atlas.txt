@@ -1,0 +1,160 @@
+
+cj_hs.png
+size: 348,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 248, 235
+  size: 135, 75
+  orig: 135, 75
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 325, 339
+  size: 21, 44
+  orig: 21, 44
+  offset: 0, 0
+  index: -1
+11
+  rotate: true
+  xy: 298, 18
+  size: 13, 39
+  orig: 13, 39
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 325, 291
+  size: 19, 46
+  orig: 19, 46
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 190, 35
+  size: 13, 31
+  orig: 13, 31
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 228, 153
+  size: 99, 80
+  orig: 99, 80
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 228, 74
+  size: 112, 77
+  orig: 112, 77
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 109, 68
+  size: 116, 75
+  orig: 116, 75
+  offset: 0, 0
+  index: -1
+17
+  rotate: true
+  xy: 86, 2
+  size: 27, 44
+  orig: 27, 44
+  offset: 0, 0
+  index: -1
+18
+  rotate: false
+  xy: 298, 33
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+19
+  rotate: true
+  xy: 227, 17
+  size: 55, 69
+  orig: 55, 69
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 372
+  size: 312, 149
+  orig: 312, 149
+  offset: 0, 0
+  index: -1
+20
+  rotate: true
+  xy: 2, 2
+  size: 29, 82
+  orig: 29, 82
+  offset: 0, 0
+  index: -1
+21
+  rotate: true
+  xy: 109, 31
+  size: 35, 79
+  orig: 35, 79
+  offset: 0, 0
+  index: -1
+22
+  rotate: false
+  xy: 2, 33
+  size: 105, 110
+  orig: 105, 110
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 2, 145
+  size: 224, 91
+  orig: 224, 91
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 2, 238
+  size: 244, 132
+  orig: 244, 132
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 132, 15
+  size: 43, 14
+  orig: 43, 14
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 205, 35
+  size: 12, 31
+  orig: 12, 31
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 316, 385
+  size: 18, 66
+  orig: 18, 66
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 316, 453
+  size: 18, 68
+  orig: 18, 68
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 325, 247
+  size: 12, 42
+  orig: 12, 42
+  offset: 0, 0
+  index: -1

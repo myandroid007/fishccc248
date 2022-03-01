@@ -1,0 +1,20 @@
+
+cj_haidishijie_5.png
+size: 173,149
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+imng_113
+  rotate: true
+  xy: 2, 2
+  size: 65, 142
+  orig: 65, 143
+  offset: 0, 1
+  index: -1
+inmg_11
+  rotate: true
+  xy: 2, 69
+  size: 78, 169
+  orig: 78, 169
+  offset: 0, 0
+  index: -1

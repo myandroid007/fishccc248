@@ -1,0 +1,244 @@
+
+drillcrab.png
+size: 977,190
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00005
+  rotate: true
+  xy: 721, 86
+  size: 102, 200
+  orig: 102, 201
+  offset: 0, 0
+  index: -1
+0002
+  rotate: true
+  xy: 610, 2
+  size: 79, 70
+  orig: 79, 70
+  offset: 0, 0
+  index: -1
+0003
+  rotate: false
+  xy: 755, 4
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+img_1
+  rotate: false
+  xy: 461, 53
+  size: 103, 135
+  orig: 103, 135
+  offset: 0, 0
+  index: -1
+img_10
+  rotate: true
+  xy: 577, 29
+  size: 22, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+img_11
+  rotate: false
+  xy: 327, 5
+  size: 50, 43
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+img_12
+  rotate: true
+  xy: 603, 83
+  size: 105, 81
+  orig: 105, 81
+  offset: 0, 0
+  index: -1
+img_14
+  rotate: false
+  xy: 2, 28
+  size: 237, 160
+  orig: 247, 164
+  offset: 9, 1
+  index: -1
+img_16
+  rotate: false
+  xy: 241, 50
+  size: 218, 138
+  orig: 218, 138
+  offset: 0, 0
+  index: -1
+img_17
+  rotate: false
+  xy: 93, 3
+  size: 106, 23
+  orig: 108, 25
+  offset: 1, 1
+  index: -1
+img_18
+  rotate: true
+  xy: 566, 82
+  size: 106, 35
+  orig: 108, 37
+  offset: 1, 1
+  index: -1
+img_19
+  rotate: true
+  xy: 686, 83
+  size: 105, 33
+  orig: 106, 33
+  offset: 0, 0
+  index: -1
+img_2
+  rotate: true
+  xy: 914, 13
+  size: 33, 56
+  orig: 33, 56
+  offset: 0, 0
+  index: -1
+img_20
+  rotate: false
+  xy: 495, 4
+  size: 55, 47
+  orig: 55, 47
+  offset: 0, 0
+  index: -1
+img_21
+  rotate: true
+  xy: 923, 154
+  size: 34, 52
+  orig: 34, 52
+  offset: 0, 0
+  index: -1
+img_22
+  rotate: false
+  xy: 305, 3
+  size: 20, 45
+  orig: 20, 45
+  offset: 0, 0
+  index: -1
+img_23
+  rotate: true
+  xy: 923, 48
+  size: 55, 39
+  orig: 55, 39
+  offset: 0, 0
+  index: -1
+img_24
+  rotate: false
+  xy: 438, 6
+  size: 55, 42
+  orig: 55, 42
+  offset: 0, 0
+  index: -1
+img_25
+  rotate: true
+  xy: 201, 3
+  size: 23, 48
+  orig: 23, 48
+  offset: 0, 0
+  index: -1
+img_26
+  rotate: false
+  xy: 63, 2
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+img_27
+  rotate: false
+  xy: 923, 105
+  size: 42, 26
+  orig: 43, 26
+  offset: 1, 0
+  index: -1
+img_28
+  rotate: true
+  xy: 893, 9
+  size: 37, 19
+  orig: 37, 19
+  offset: 0, 0
+  index: -1
+img_29
+  rotate: false
+  xy: 251, 2
+  size: 52, 46
+  orig: 52, 46
+  offset: 0, 0
+  index: -1
+img_30
+  rotate: true
+  xy: 837, 49
+  size: 35, 53
+  orig: 35, 53
+  offset: 0, 0
+  index: -1
+img_31
+  rotate: true
+  xy: 923, 133
+  size: 19, 51
+  orig: 19, 51
+  offset: 0, 0
+  index: -1
+img_32
+  rotate: false
+  xy: 837, 7
+  size: 54, 39
+  orig: 54, 39
+  offset: 0, 0
+  index: -1
+img_33
+  rotate: false
+  xy: 379, 6
+  size: 57, 42
+  orig: 57, 42
+  offset: 0, 0
+  index: -1
+img_34
+  rotate: false
+  xy: 552, 4
+  size: 23, 47
+  orig: 23, 47
+  offset: 0, 0
+  index: -1
+img_35
+  rotate: false
+  xy: 2, 2
+  size: 29, 24
+  orig: 31, 26
+  offset: 1, 1
+  index: -1
+img_36
+  rotate: false
+  xy: 566, 53
+  size: 42, 27
+  orig: 43, 27
+  offset: 0, 0
+  index: -1
+img_37
+  rotate: true
+  xy: 892, 49
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+img_6
+  rotate: false
+  xy: 33, 2
+  size: 28, 24
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+img_7
+  rotate: true
+  xy: 682, 11
+  size: 70, 33
+  orig: 70, 33
+  offset: 0, 0
+  index: -1
+img_9
+  rotate: true
+  xy: 717, 17
+  size: 64, 36
+  orig: 65, 36
+  offset: 0, 0
+  index: -1

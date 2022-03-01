@@ -1,0 +1,41 @@
+
+whitedolphins.png
+size: 269,83
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img_02
+  rotate: false
+  xy: 170, 11
+  size: 58, 27
+  orig: 62, 27
+  offset: 0, 0
+  index: -1
+img_03
+  rotate: true
+  xy: 230, 2
+  size: 54, 28
+  orig: 62, 29
+  offset: 0, 1
+  index: -1
+img_04
+  rotate: false
+  xy: 2, 3
+  size: 166, 78
+  orig: 167, 78
+  offset: 0, 0
+  index: -1
+img_05
+  rotate: false
+  xy: 227, 58
+  size: 40, 23
+  orig: 41, 24
+  offset: 0, 1
+  index: -1
+img_06
+  rotate: false
+  xy: 170, 40
+  size: 55, 41
+  orig: 55, 41
+  offset: 0, 0
+  index: -1

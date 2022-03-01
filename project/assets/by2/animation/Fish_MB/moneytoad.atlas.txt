@@ -1,0 +1,188 @@
+
+moneytoad.png
+size: 944,383
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+40ee41db
+  rotate: false
+  xy: 438, 137
+  size: 240, 244
+  orig: 256, 256
+  offset: 8, 8
+  index: -1
+D_Light02
+  rotate: false
+  xy: 543, 12
+  size: 51, 51
+  orig: 64, 64
+  offset: 7, 5
+  index: -1
+img_1
+  rotate: false
+  xy: 2, 9
+  size: 270, 97
+  orig: 270, 97
+  offset: 0, 0
+  index: -1
+img_11
+  rotate: true
+  xy: 274, 14
+  size: 92, 107
+  orig: 92, 107
+  offset: 0, 0
+  index: -1
+img_12
+  rotate: false
+  xy: 612, 70
+  size: 64, 65
+  orig: 66, 65
+  offset: 0, 0
+  index: -1
+img_2
+  rotate: false
+  xy: 680, 244
+  size: 136, 137
+  orig: 136, 137
+  offset: 0, 0
+  index: -1
+img_4
+  rotate: false
+  xy: 465, 26
+  size: 76, 109
+  orig: 76, 109
+  offset: 0, 0
+  index: -1
+img_5
+  rotate: true
+  xy: 543, 65
+  size: 70, 67
+  orig: 70, 67
+  offset: 0, 0
+  index: -1
+img_6
+  rotate: true
+  xy: 2, 108
+  size: 273, 216
+  orig: 273, 216
+  offset: 0, 0
+  index: -1
+img_7
+  rotate: true
+  xy: 383, 2
+  size: 104, 80
+  orig: 104, 80
+  offset: 0, 0
+  index: -1
+light_02
+  rotate: true
+  xy: 220, 108
+  size: 273, 216
+  orig: 273, 216
+  offset: 0, 0
+  index: -1
+moneytopng_00000
+  rotate: false
+  xy: 612, 4
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+moneytopng_00001
+  rotate: false
+  xy: 678, 71
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+moneytopng_00002
+  rotate: false
+  xy: 678, 5
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+moneytopng_00003
+  rotate: false
+  xy: 680, 178
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+moneytopng_00004
+  rotate: false
+  xy: 744, 112
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+moneytopng_00005
+  rotate: false
+  xy: 746, 178
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+moneytopng_00006
+  rotate: false
+  xy: 744, 46
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+moneytopng_00007
+  rotate: false
+  xy: 810, 112
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+moneytopng_00008
+  rotate: false
+  xy: 812, 178
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+moneytopng_00009
+  rotate: false
+  xy: 876, 112
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+moneytopng_00010
+  rotate: false
+  xy: 878, 317
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+moneytopng_00011
+  rotate: false
+  xy: 818, 251
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+moneytopng_00012
+  rotate: false
+  xy: 878, 185
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+moneytopng_00013
+  rotate: false
+  xy: 810, 46
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+moneytopng_00014
+  rotate: false
+  xy: 876, 46
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

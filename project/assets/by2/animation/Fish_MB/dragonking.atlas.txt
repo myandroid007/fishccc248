@@ -1,0 +1,160 @@
+
+dragonking.png
+size: 713,138
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00
+  rotate: false
+  xy: 2, 8
+  size: 375, 75
+  orig: 375, 75
+  offset: 0, 0
+  index: -1
+0005
+  rotate: true
+  xy: 695, 59
+  size: 77, 16
+  orig: 77, 16
+  offset: 0, 0
+  index: -1
+0006
+  rotate: false
+  xy: 438, 65
+  size: 75, 18
+  orig: 75, 18
+  offset: 0, 0
+  index: -1
+Yun
+  rotate: false
+  xy: 551, 72
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+img-1
+  rotate: true
+  xy: 555, 12
+  size: 14, 49
+  orig: 14, 49
+  offset: 0, 0
+  index: -1
+img-14
+  rotate: false
+  xy: 675, 2
+  size: 32, 55
+  orig: 32, 56
+  offset: 0, 1
+  index: -1
+img-15
+  rotate: false
+  xy: 438, 43
+  size: 45, 20
+  orig: 45, 20
+  offset: 0, 0
+  index: -1
+img-16
+  rotate: true
+  xy: 612, 17
+  size: 23, 43
+  orig: 23, 43
+  offset: 0, 0
+  index: -1
+img-17
+  rotate: false
+  xy: 485, 15
+  size: 24, 48
+  orig: 25, 49
+  offset: 0, 1
+  index: -1
+img-18
+  rotate: false
+  xy: 511, 3
+  size: 42, 23
+  orig: 42, 24
+  offset: 0, 1
+  index: -1
+img-19
+  rotate: true
+  xy: 2, 3
+  size: 3, 95
+  orig: 4, 118
+  offset: 0, 23
+  index: -1
+img-20
+  rotate: false
+  xy: 2, 85
+  size: 547, 51
+  orig: 562, 57
+  offset: 0, 6
+  index: -1
+img-24
+  rotate: false
+  xy: 454, 4
+  size: 29, 37
+  orig: 29, 38
+  offset: 0, 1
+  index: -1
+img-25
+  rotate: true
+  xy: 515, 41
+  size: 42, 32
+  orig: 42, 32
+  offset: 0, 0
+  index: -1
+img-27
+  rotate: true
+  xy: 379, 43
+  size: 9, 35
+  orig: 9, 35
+  offset: 0, 0
+  index: -1
+img-4
+  rotate: false
+  xy: 675, 67
+  size: 16, 27
+  orig: 16, 27
+  offset: 0, 0
+  index: -1
+img-5
+  rotate: false
+  xy: 617, 96
+  size: 76, 40
+  orig: 77, 43
+  offset: 0, 0
+  index: -1
+img-6
+  rotate: false
+  xy: 379, 54
+  size: 57, 29
+  orig: 57, 30
+  offset: 0, 1
+  index: -1
+img-7
+  rotate: false
+  xy: 549, 28
+  size: 61, 42
+  orig: 62, 42
+  offset: 0, 0
+  index: -1
+img-8
+  rotate: false
+  xy: 617, 42
+  size: 56, 52
+  orig: 57, 52
+  offset: 1, 0
+  index: -1
+img-9
+  rotate: false
+  xy: 379, 5
+  size: 73, 35
+  orig: 74, 39
+  offset: 0, 1
+  index: -1
+img_002
+  rotate: false
+  xy: 416, 43
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1

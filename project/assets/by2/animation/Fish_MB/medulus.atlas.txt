@@ -1,0 +1,48 @@
+
+medulus.png
+size: 499,174
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+D_Light02
+  rotate: false
+  xy: 205, 2
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+img_3
+  rotate: false
+  xy: 2, 3
+  size: 201, 169
+  orig: 201, 169
+  offset: 0, 0
+  index: -1
+img_4
+  rotate: false
+  xy: 308, 29
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+img_5
+  rotate: true
+  xy: 417, 48
+  size: 124, 80
+  orig: 124, 80
+  offset: 0, 0
+  index: -1
+img_7
+  rotate: false
+  xy: 252, 10
+  size: 54, 37
+  orig: 54, 37
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 205, 49
+  size: 210, 123
+  orig: 210, 123
+  offset: 0, 0
+  index: -1

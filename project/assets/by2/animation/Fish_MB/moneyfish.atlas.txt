@@ -1,0 +1,104 @@
+
+moneyfish.png
+size: 740,204
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+D_Light02
+  rotate: false
+  xy: 702, 43
+  size: 36, 36
+  orig: 45, 45
+  offset: 5, 4
+  index: -1
+img_1
+  rotate: true
+  xy: 662, 33
+  size: 39, 38
+  orig: 39, 39
+  offset: 0, 1
+  index: -1
+img_10
+  rotate: false
+  xy: 704, 89
+  size: 33, 23
+  orig: 34, 24
+  offset: 0, 1
+  index: -1
+img_11
+  rotate: true
+  xy: 672, 81
+  size: 121, 30
+  orig: 121, 31
+  offset: 0, 1
+  index: -1
+img_12
+  rotate: false
+  xy: 419, 102
+  size: 207, 100
+  orig: 208, 100
+  offset: 0, 0
+  index: -1
+img_13
+  rotate: false
+  xy: 534, 35
+  size: 57, 65
+  orig: 57, 65
+  offset: 0, 0
+  index: -1
+img_13_00
+  rotate: false
+  xy: 2, 2
+  size: 415, 200
+  orig: 416, 200
+  offset: 0, 0
+  index: -1
+img_2
+  rotate: true
+  xy: 628, 26
+  size: 46, 32
+  orig: 47, 33
+  offset: 0, 1
+  index: -1
+img_3
+  rotate: true
+  xy: 628, 74
+  size: 128, 42
+  orig: 129, 46
+  offset: 0, 4
+  index: -1
+img_4
+  rotate: true
+  xy: 419, 26
+  size: 74, 113
+  orig: 75, 113
+  offset: 0, 0
+  index: -1
+img_5
+  rotate: false
+  xy: 593, 13
+  size: 33, 87
+  orig: 34, 88
+  offset: 0, 1
+  index: -1
+img_6
+  rotate: false
+  xy: 704, 114
+  size: 34, 88
+  orig: 34, 89
+  offset: 0, 1
+  index: -1
+img_7
+  rotate: true
+  xy: 419, 18
+  size: 6, 130
+  orig: 6, 131
+  offset: 0, 1
+  index: -1
+img_9
+  rotate: false
+  xy: 419, 2
+  size: 17, 14
+  orig: 18, 15
+  offset: 0, 1
+  index: -1

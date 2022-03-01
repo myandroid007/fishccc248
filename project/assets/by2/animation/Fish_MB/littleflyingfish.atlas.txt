@@ -1,0 +1,48 @@
+
+littleflyingfish.png
+size: 166,75
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img_1
+  rotate: false
+  xy: 2, 12
+  size: 103, 21
+  orig: 103, 26
+  offset: 0, 3
+  index: -1
+img_2
+  rotate: false
+  xy: 2, 2
+  size: 11, 8
+  orig: 11, 9
+  offset: 0, 1
+  index: -1
+img_3
+  rotate: false
+  xy: 144, 29
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+img_4
+  rotate: false
+  xy: 144, 46
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+img_5
+  rotate: false
+  xy: 2, 35
+  size: 110, 38
+  orig: 110, 38
+  offset: 0, 0
+  index: -1
+img_6
+  rotate: true
+  xy: 114, 5
+  size: 68, 28
+  orig: 68, 30
+  offset: 0, 2
+  index: -1

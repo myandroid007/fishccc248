@@ -1,0 +1,69 @@
+
+seahorse.png
+size: 340,97
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img-1
+  rotate: false
+  xy: 290, 2
+  size: 44, 31
+  orig: 44, 31
+  offset: 0, 0
+  index: -1
+img-2
+  rotate: true
+  xy: 127, 2
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+img-3
+  rotate: false
+  xy: 229, 35
+  size: 72, 60
+  orig: 72, 60
+  offset: 0, 0
+  index: -1
+img-4
+  rotate: false
+  xy: 2, 7
+  size: 123, 88
+  orig: 123, 91
+  offset: 0, 0
+  index: -1
+img-5
+  rotate: false
+  xy: 163, 6
+  size: 37, 22
+  orig: 37, 22
+  offset: 0, 0
+  index: -1
+img-6
+  rotate: false
+  xy: 202, 5
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+img-7
+  rotate: false
+  xy: 229, 2
+  size: 59, 31
+  orig: 59, 31
+  offset: 0, 0
+  index: -1
+img-8
+  rotate: true
+  xy: 127, 30
+  size: 65, 100
+  orig: 68, 100
+  offset: 3, 0
+  index: -1
+img-9
+  rotate: false
+  xy: 303, 53
+  size: 35, 42
+  orig: 36, 43
+  offset: 1, 0
+  index: -1

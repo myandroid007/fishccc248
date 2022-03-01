@@ -1,0 +1,146 @@
+
+bulewhaleking.png
+size: 1241,559
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00
+  rotate: true
+  xy: 267, 154
+  size: 403, 240
+  orig: 403, 240
+  offset: 0, 0
+  index: -1
+1_00
+  rotate: false
+  xy: 408, 2
+  size: 252, 150
+  orig: 252, 150
+  offset: 0, 0
+  index: -1
+Liu/00
+  rotate: false
+  xy: 2, 18
+  size: 201, 120
+  orig: 202, 120
+  offset: 0, 0
+  index: -1
+Liu/01
+  rotate: false
+  xy: 205, 18
+  size: 201, 120
+  orig: 202, 120
+  offset: 0, 0
+  index: -1
+Liu/02
+  rotate: true
+  xy: 509, 356
+  size: 201, 120
+  orig: 202, 120
+  offset: 0, 0
+  index: -1
+Liu/03
+  rotate: false
+  xy: 509, 234
+  size: 201, 120
+  orig: 202, 120
+  offset: 0, 0
+  index: -1
+Liu/04
+  rotate: true
+  xy: 631, 356
+  size: 201, 120
+  orig: 202, 120
+  offset: 0, 0
+  index: -1
+Liu/05
+  rotate: true
+  xy: 662, 31
+  size: 201, 120
+  orig: 202, 120
+  offset: 0, 0
+  index: -1
+Liu/06
+  rotate: false
+  xy: 712, 234
+  size: 201, 120
+  orig: 202, 120
+  offset: 0, 0
+  index: -1
+Liu/07
+  rotate: true
+  xy: 753, 356
+  size: 201, 120
+  orig: 202, 120
+  offset: 0, 0
+  index: -1
+Liu/08
+  rotate: true
+  xy: 875, 356
+  size: 201, 120
+  orig: 202, 120
+  offset: 0, 0
+  index: -1
+Liu/09
+  rotate: true
+  xy: 784, 31
+  size: 201, 120
+  orig: 202, 120
+  offset: 0, 0
+  index: -1
+Liu/10
+  rotate: true
+  xy: 906, 31
+  size: 201, 120
+  orig: 202, 120
+  offset: 0, 0
+  index: -1
+Liu/11
+  rotate: false
+  xy: 915, 234
+  size: 201, 120
+  orig: 202, 120
+  offset: 0, 0
+  index: -1
+Liu/12
+  rotate: true
+  xy: 997, 356
+  size: 201, 120
+  orig: 202, 120
+  offset: 0, 0
+  index: -1
+Liu/13
+  rotate: true
+  xy: 1118, 153
+  size: 201, 120
+  orig: 202, 120
+  offset: 0, 0
+  index: -1
+Liu/14
+  rotate: true
+  xy: 1119, 356
+  size: 201, 120
+  orig: 202, 120
+  offset: 0, 0
+  index: -1
+img-1
+  rotate: false
+  xy: 1109, 30
+  size: 126, 121
+  orig: 127, 121
+  offset: 0, 0
+  index: -1
+img-3
+  rotate: true
+  xy: 1028, 71
+  size: 161, 79
+  orig: 161, 80
+  offset: 0, 1
+  index: -1
+img-5
+  rotate: true
+  xy: 2, 140
+  size: 417, 263
+  orig: 418, 263
+  offset: 0, 0
+  index: -1

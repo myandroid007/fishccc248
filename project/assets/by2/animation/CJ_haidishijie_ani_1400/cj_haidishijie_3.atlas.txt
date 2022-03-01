@@ -1,0 +1,13 @@
+
+cj_haidishijie_3.png
+size: 148,165
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img_13
+  rotate: false
+  xy: 2, 2
+  size: 144, 161
+  orig: 144, 161
+  offset: 0, 0
+  index: -1

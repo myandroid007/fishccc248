@@ -1,0 +1,48 @@
+
+fish27.png
+size: 203,109
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan
+  rotate: false
+  xy: 135, 32
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+jinshu
+  rotate: false
+  xy: 158, 54
+  size: 43, 53
+  orig: 43, 53
+  offset: 0, 0
+  index: -1
+qi1
+  rotate: true
+  xy: 158, 3
+  size: 49, 38
+  orig: 49, 38
+  offset: 0, 0
+  index: -1
+qi2
+  rotate: false
+  xy: 99, 2
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 2
+  size: 105, 95
+  orig: 105, 105
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: true
+  xy: 99, 51
+  size: 56, 57
+  orig: 56, 73
+  offset: 0, 16
+  index: -1

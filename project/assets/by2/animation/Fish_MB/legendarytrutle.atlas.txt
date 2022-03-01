@@ -1,0 +1,188 @@
+
+legendarytrutle.png
+size: 870,281
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+200
+  rotate: true
+  xy: 502, 139
+  size: 140, 115
+  orig: 140, 115
+  offset: 0, 0
+  index: -1
+img-1
+  rotate: false
+  xy: 283, 93
+  size: 217, 186
+  orig: 218, 186
+  offset: 0, 0
+  index: -1
+img-10
+  rotate: false
+  xy: 455, 37
+  size: 111, 54
+  orig: 112, 54
+  offset: 0, 0
+  index: -1
+img-12
+  rotate: true
+  xy: 760, 8
+  size: 88, 41
+  orig: 89, 41
+  offset: 0, 0
+  index: -1
+img-2
+  rotate: false
+  xy: 2, 84
+  size: 279, 195
+  orig: 280, 195
+  offset: 0, 0
+  index: -1
+img-3
+  rotate: false
+  xy: 502, 98
+  size: 115, 39
+  orig: 115, 39
+  offset: 0, 0
+  index: -1
+img-5
+  rotate: false
+  xy: 2, 9
+  size: 163, 73
+  orig: 164, 74
+  offset: 0, 1
+  index: -1
+img-6
+  rotate: false
+  xy: 296, 9
+  size: 80, 82
+  orig: 84, 82
+  offset: 0, 0
+  index: -1
+img-8
+  rotate: false
+  xy: 167, 2
+  size: 127, 80
+  orig: 128, 80
+  offset: 0, 0
+  index: -1
+img-9
+  rotate: false
+  xy: 568, 60
+  size: 120, 36
+  orig: 121, 37
+  offset: 0, 1
+  index: -1
+xuangui2_00000
+  rotate: true
+  xy: 378, 4
+  size: 87, 75
+  orig: 87, 75
+  offset: 0, 0
+  index: -1
+xuangui_00000
+  rotate: false
+  xy: 568, 2
+  size: 65, 56
+  orig: 68, 57
+  offset: 2, 0
+  index: -1
+xuangui_00001
+  rotate: false
+  xy: 635, 2
+  size: 65, 56
+  orig: 68, 57
+  offset: 2, 0
+  index: -1
+xuangui_00002
+  rotate: false
+  xy: 690, 223
+  size: 65, 56
+  orig: 68, 57
+  offset: 2, 0
+  index: -1
+xuangui_00003
+  rotate: false
+  xy: 619, 223
+  size: 65, 56
+  orig: 68, 57
+  offset: 2, 0
+  index: -1
+xuangui_00004
+  rotate: true
+  xy: 690, 156
+  size: 65, 56
+  orig: 68, 57
+  offset: 2, 0
+  index: -1
+xuangui_00005
+  rotate: false
+  xy: 619, 165
+  size: 65, 56
+  orig: 68, 57
+  offset: 2, 0
+  index: -1
+xuangui_00006
+  rotate: true
+  xy: 619, 98
+  size: 65, 56
+  orig: 68, 57
+  offset: 2, 0
+  index: -1
+xuangui_00007
+  rotate: false
+  xy: 677, 98
+  size: 65, 56
+  orig: 68, 57
+  offset: 2, 0
+  index: -1
+xuangui_00008
+  rotate: true
+  xy: 702, 31
+  size: 65, 56
+  orig: 68, 57
+  offset: 2, 0
+  index: -1
+xuangui_00009
+  rotate: false
+  xy: 744, 98
+  size: 65, 56
+  orig: 68, 57
+  offset: 2, 0
+  index: -1
+xuangui_00010
+  rotate: true
+  xy: 748, 156
+  size: 65, 56
+  orig: 68, 57
+  offset: 2, 0
+  index: -1
+xuangui_00011
+  rotate: false
+  xy: 757, 223
+  size: 65, 56
+  orig: 68, 57
+  offset: 2, 0
+  index: -1
+xuangui_00012
+  rotate: true
+  xy: 806, 156
+  size: 65, 56
+  orig: 68, 57
+  offset: 2, 0
+  index: -1
+xuangui_00013
+  rotate: true
+  xy: 811, 89
+  size: 65, 56
+  orig: 68, 57
+  offset: 2, 0
+  index: -1
+xuangui_00014
+  rotate: false
+  xy: 803, 31
+  size: 65, 56
+  orig: 68, 57
+  offset: 2, 0
+  index: -1

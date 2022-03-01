@@ -1,0 +1,48 @@
+
+paota_3_2.png
+size: 91,274
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img_01
+  rotate: true
+  xy: 2, 151
+  size: 121, 84
+  orig: 121, 84
+  offset: 0, 0
+  index: -1
+img_02
+  rotate: false
+  xy: 2, 84
+  size: 47, 65
+  orig: 47, 65
+  offset: 0, 0
+  index: -1
+img_03
+  rotate: false
+  xy: 51, 80
+  size: 38, 69
+  orig: 38, 69
+  offset: 0, 0
+  index: -1
+img_04
+  rotate: false
+  xy: 42, 41
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+img_05
+  rotate: false
+  xy: 2, 13
+  size: 38, 69
+  orig: 38, 69
+  offset: 0, 0
+  index: -1
+img_06
+  rotate: false
+  xy: 42, 2
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1

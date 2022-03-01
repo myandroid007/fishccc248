@@ -1,0 +1,27 @@
+
+zuheyu_gq_04.png
+size: 702,281
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ditu
+  rotate: false
+  xy: 280, 46
+  size: 233, 233
+  orig: 233, 233
+  offset: 0, 0
+  index: -1
+neiquan
+  rotate: false
+  xy: 515, 94
+  size: 185, 185
+  orig: 185, 185
+  offset: 0, 0
+  index: -1
+waiquan
+  rotate: false
+  xy: 2, 2
+  size: 276, 277
+  orig: 276, 277
+  offset: 0, 0
+  index: -1

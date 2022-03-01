@@ -1,0 +1,83 @@
+
+blizzardjellyfish.png
+size: 172,109
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_img9
+  rotate: true
+  xy: 74, 24
+  size: 83, 86
+  orig: 83, 86
+  offset: 0, 0
+  index: -1
+head_img10
+  rotate: true
+  xy: 2, 3
+  size: 104, 70
+  orig: 104, 70
+  offset: 0, 0
+  index: -1
+ice_img1
+  rotate: true
+  xy: 162, 61
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+ice_img2
+  rotate: true
+  xy: 162, 68
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+ice_img3
+  rotate: false
+  xy: 162, 97
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+ice_img4
+  rotate: false
+  xy: 118, 10
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+ice_img5
+  rotate: false
+  xy: 92, 7
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+ice_img6
+  rotate: false
+  xy: 162, 87
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+ice_img7
+  rotate: false
+  xy: 162, 77
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+ice_img8
+  rotate: false
+  xy: 74, 2
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+img-7
+  rotate: true
+  xy: 107, 6
+  size: 16, 9
+  orig: 17, 10
+  offset: 0, 1
+  index: -1

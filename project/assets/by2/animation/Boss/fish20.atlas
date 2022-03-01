@@ -1,0 +1,69 @@
+
+fish20.png
+size: 251,265
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan
+  rotate: false
+  xy: 106, 5
+  size: 54, 31
+  orig: 54, 31
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 10
+  size: 253, 102
+  orig: 253, 102
+  offset: 0, 0
+  index: -1
+shou1_1
+  rotate: true
+  xy: 194, 44
+  size: 45, 28
+  orig: 47, 30
+  offset: 1, 1
+  index: -1
+shou1_2
+  rotate: false
+  xy: 224, 64
+  size: 25, 25
+  orig: 27, 27
+  offset: 1, 1
+  index: -1
+shou1_3
+  rotate: false
+  xy: 210, 14
+  size: 38, 28
+  orig: 38, 28
+  offset: 0, 0
+  index: -1
+shou1_4
+  rotate: false
+  xy: 152, 38
+  size: 40, 51
+  orig: 40, 51
+  offset: 0, 0
+  index: -1
+shou2_1
+  rotate: false
+  xy: 106, 38
+  size: 44, 51
+  orig: 46, 53
+  offset: 1, 1
+  index: -1
+shou2_2
+  rotate: false
+  xy: 162, 2
+  size: 46, 34
+  orig: 48, 36
+  offset: 1, 1
+  index: -1
+tou
+  rotate: true
+  xy: 106, 91
+  size: 172, 126
+  orig: 172, 126
+  offset: 0, 0
+  index: -1

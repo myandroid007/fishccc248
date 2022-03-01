@@ -1,0 +1,83 @@
+
+Shuicao.png
+size: 162,529
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_s_1
+  rotate: true
+  xy: 2, 432
+  size: 50, 148
+  orig: 50, 148
+  offset: 0, 0
+  index: -1
+L_s_2
+  rotate: false
+  xy: 107, 2
+  size: 43, 79
+  orig: 43, 79
+  offset: 0, 0
+  index: -1
+L_s_3
+  rotate: false
+  xy: 107, 83
+  size: 49, 75
+  orig: 49, 75
+  offset: 0, 0
+  index: -1
+L_sh_1
+  rotate: true
+  xy: 109, 160
+  size: 78, 51
+  orig: 78, 51
+  offset: 0, 0
+  index: -1
+L_x_1
+  rotate: true
+  xy: 2, 387
+  size: 43, 144
+  orig: 43, 144
+  offset: 0, 0
+  index: -1
+R_s_1
+  rotate: false
+  xy: 119, 240
+  size: 39, 103
+  orig: 39, 103
+  offset: 0, 0
+  index: -1
+R_s_2
+  rotate: true
+  xy: 2, 484
+  size: 43, 157
+  orig: 43, 157
+  offset: 0, 0
+  index: -1
+R_s_3
+  rotate: true
+  xy: 2, 212
+  size: 76, 105
+  orig: 76, 105
+  offset: 0, 0
+  index: -1
+R_x_1
+  rotate: false
+  xy: 2, 18
+  size: 103, 192
+  orig: 103, 192
+  offset: 0, 0
+  index: -1
+R_x_2
+  rotate: true
+  xy: 2, 345
+  size: 40, 125
+  orig: 40, 125
+  offset: 0, 0
+  index: -1
+R_x_3
+  rotate: false
+  xy: 2, 290
+  size: 115, 53
+  orig: 115, 53
+  offset: 0, 0
+  index: -1

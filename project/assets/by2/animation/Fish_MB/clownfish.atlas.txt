@@ -1,0 +1,41 @@
+
+clownfish.png
+size: 146,80
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beiqi
+  rotate: false
+  xy: 89, 55
+  size: 55, 23
+  orig: 55, 23
+  offset: 0, 0
+  index: -1
+pi
+  rotate: false
+  xy: 129, 29
+  size: 13, 24
+  orig: 13, 24
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 14
+  size: 85, 64
+  orig: 85, 64
+  offset: 0, 0
+  index: -1
+weiba1
+  rotate: false
+  xy: 89, 24
+  size: 38, 29
+  orig: 38, 29
+  offset: 0, 0
+  index: -1
+yanpi
+  rotate: false
+  xy: 89, 2
+  size: 20, 20
+  orig: 22, 20
+  offset: 1, 0
+  index: -1

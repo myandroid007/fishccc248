@@ -1,0 +1,13 @@
+
+cj_hs_tk.png
+size: 1179,485
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+24
+  rotate: false
+  xy: 2, 2
+  size: 1175, 481
+  orig: 1175, 481
+  offset: 0, 0
+  index: -1

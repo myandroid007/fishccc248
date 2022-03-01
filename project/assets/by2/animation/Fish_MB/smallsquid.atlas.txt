@@ -1,0 +1,62 @@
+
+smallsquid.png
+size: 205,67
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img-1
+  rotate: true
+  xy: 74, 43
+  size: 22, 66
+  orig: 22, 66
+  offset: 0, 0
+  index: -1
+img-2
+  rotate: true
+  xy: 74, 21
+  size: 20, 63
+  orig: 20, 63
+  offset: 0, 0
+  index: -1
+img-3
+  rotate: true
+  xy: 142, 43
+  size: 22, 61
+  orig: 22, 61
+  offset: 0, 0
+  index: -1
+img-4
+  rotate: true
+  xy: 139, 25
+  size: 16, 61
+  orig: 23, 61
+  offset: 3, 0
+  index: -1
+img-5
+  rotate: true
+  xy: 74, 3
+  size: 16, 61
+  orig: 16, 61
+  offset: 0, 0
+  index: -1
+img-6
+  rotate: false
+  xy: 162, 2
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+img-7
+  rotate: false
+  xy: 139, 2
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+img-8
+  rotate: false
+  xy: 2, 11
+  size: 70, 54
+  orig: 70, 54
+  offset: 0, 0
+  index: -1

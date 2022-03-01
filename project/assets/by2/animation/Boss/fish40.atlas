@@ -1,0 +1,83 @@
+
+fish40.png
+size: 307,96
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan
+  rotate: false
+  xy: 283, 9
+  size: 22, 40
+  orig: 23, 40
+  offset: 1, 0
+  index: -1
+fish40_1
+  rotate: true
+  xy: 252, 9
+  size: 39, 29
+  orig: 39, 29
+  offset: 0, 0
+  index: -1
+fish40_10
+  rotate: false
+  xy: 2, 8
+  size: 99, 86
+  orig: 105, 92
+  offset: 0, 6
+  index: -1
+fish40_2
+  rotate: false
+  xy: 236, 50
+  size: 42, 44
+  orig: 42, 44
+  offset: 0, 0
+  index: -1
+fish40_3
+  rotate: true
+  xy: 187, 49
+  size: 45, 47
+  orig: 45, 47
+  offset: 0, 0
+  index: -1
+fish40_4
+  rotate: true
+  xy: 280, 51
+  size: 43, 25
+  orig: 43, 25
+  offset: 0, 0
+  index: -1
+fish40_5
+  rotate: false
+  xy: 211, 5
+  size: 39, 42
+  orig: 39, 42
+  offset: 0, 0
+  index: -1
+fish40_6
+  rotate: false
+  xy: 164, 2
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+fish40_7
+  rotate: true
+  xy: 103, 11
+  size: 10, 21
+  orig: 10, 21
+  offset: 0, 0
+  index: -1
+fish40_8
+  rotate: true
+  xy: 103, 23
+  size: 35, 59
+  orig: 35, 59
+  offset: 0, 0
+  index: -1
+fish40_9
+  rotate: false
+  xy: 103, 60
+  size: 82, 34
+  orig: 82, 34
+  offset: 0, 0
+  index: -1

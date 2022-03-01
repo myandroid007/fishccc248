@@ -1,0 +1,110 @@
+
+fish35.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fish35_jinshu
+  rotate: true
+  xy: 443, 122
+  size: 84, 67
+  orig: 88, 71
+  offset: 2, 2
+  index: -1
+fish35_lognyou
+  rotate: false
+  xy: 191, 94
+  size: 107, 112
+  orig: 107, 114
+  offset: 0, 0
+  index: -1
+fish35_lognzhong
+  rotate: false
+  xy: 2, 26
+  size: 84, 180
+  orig: 91, 180
+  offset: 0, 0
+  index: -1
+fish35_longzuo
+  rotate: false
+  xy: 88, 80
+  size: 101, 126
+  orig: 101, 126
+  offset: 0, 0
+  index: -1
+fish35_tx
+  rotate: false
+  xy: 2, 208
+  size: 496, 302
+  orig: 496, 302
+  offset: 0, 0
+  index: -1
+fish35_weibayou
+  rotate: false
+  xy: 88, 2
+  size: 136, 76
+  orig: 136, 76
+  offset: 0, 0
+  index: -1
+fish35_weibazuo
+  rotate: false
+  xy: 300, 128
+  size: 141, 78
+  orig: 141, 89
+  offset: 0, 0
+  index: -1
+fish35_youbiyan
+  rotate: false
+  xy: 191, 85
+  size: 9, 7
+  orig: 13, 11
+  offset: 2, 2
+  index: -1
+fish35_youtui
+  rotate: true
+  xy: 400, 63
+  size: 57, 95
+  orig: 90, 116
+  offset: 30, 0
+  index: -1
+fish35_zhognbiyan
+  rotate: false
+  xy: 2, 17
+  size: 30, 7
+  orig: 34, 11
+  offset: 2, 2
+  index: -1
+fish35_zuobiyan
+  rotate: false
+  xy: 500, 504
+  size: 10, 6
+  orig: 14, 10
+  offset: 2, 2
+  index: -1
+fish35_zuotui
+  rotate: true
+  xy: 300, 71
+  size: 55, 98
+  orig: 152, 122
+  offset: 97, 0
+  index: -1
+
+fish352.png
+size: 482,222
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fish35_cibangyou
+  rotate: false
+  xy: 2, 2
+  size: 236, 218
+  orig: 236, 218
+  offset: 0, 0
+  index: -1
+fish35_cibangzuo
+  rotate: false
+  xy: 240, 6
+  size: 240, 214
+  orig: 240, 214
+  offset: 0, 0
+  index: -1

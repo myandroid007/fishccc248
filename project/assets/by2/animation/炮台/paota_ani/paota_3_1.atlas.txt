@@ -1,0 +1,48 @@
+
+paota_3_1.png
+size: 169,151
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1paokou_img
+  rotate: false
+  xy: 74, 2
+  size: 48, 58
+  orig: 48, 58
+  offset: 0, 0
+  index: -1
+1paoshen_img
+  rotate: false
+  xy: 2, 62
+  size: 112, 87
+  orig: 112, 87
+  offset: 0, 0
+  index: -1
+2paokou_img
+  rotate: false
+  xy: 124, 46
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+2paoshen_img
+  rotate: true
+  xy: 2, 9
+  size: 51, 70
+  orig: 51, 70
+  offset: 0, 0
+  index: -1
+3paokou_img
+  rotate: false
+  xy: 124, 13
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+3paoshen_img
+  rotate: false
+  xy: 116, 79
+  size: 51, 70
+  orig: 51, 70
+  offset: 0, 0
+  index: -1

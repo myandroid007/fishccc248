@@ -1,0 +1,257 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Ui_Zidong",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 4,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "img/Mask/Tail": {
+        "props": {
+          "x": [
+            {
+              "frame": 0.3333333333333333,
+              "value": -70
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": 70
+            }
+          ],
+          "y": [
+            {
+              "frame": 0.3333333333333333,
+              "value": 70
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": -70
+            }
+          ]
+        }
+      },
+      "img_zd": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 1,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.100000023841858,
+                "y": 1.100000023841858
+              }
+            },
+            {
+              "frame": 2,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ]
+        }
+      },
+      "Quan/Guang1": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              },
+              "curve": [
+                0.2010891089108911,
+                0.8006930693069307,
+                0.58,
+                1
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 4,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.26666666666666666,
+              "value": 255,
+              "curve": "cubicOut"
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "Quan/Guang2": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0.5,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              },
+              "curve": [
+                0.2010891089108911,
+                0.8006930693069307,
+                0.58,
+                1
+              ]
+            },
+            {
+              "frame": 1,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.7666666666666667,
+              "value": 255,
+              "curve": "cubicOut"
+            },
+            {
+              "frame": 1,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "Quan/Guang3": {
+        "props": {
+          "scale": [
+            {
+              "frame": 1,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              },
+              "curve": [
+                0.2010891089108911,
+                0.8006930693069307,
+                0.58,
+                1
+              ]
+            },
+            {
+              "frame": 1.5,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 1.2666666666666666,
+              "value": 255,
+              "curve": "cubicOut"
+            },
+            {
+              "frame": 1.5,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "Quan/Guang4": {
+        "props": {
+          "scale": [
+            {
+              "frame": 1.5,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              },
+              "curve": [
+                0.2010891089108911,
+                0.8006930693069307,
+                0.58,
+                1
+              ]
+            },
+            {
+              "frame": 2,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 1.7666666666666666,
+              "value": 255,
+              "curve": "cubicOut"
+            },
+            {
+              "frame": 2,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "img_zd/Mask /Tail": {
+        "props": {
+          "x": [
+            {
+              "frame": 0.6666666666666666,
+              "value": -70
+            },
+            {
+              "frame": 1.5,
+              "value": 70
+            }
+          ],
+          "y": [
+            {
+              "frame": 0.6666666666666666,
+              "value": 70
+            },
+            {
+              "frame": 1.5,
+              "value": -70
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

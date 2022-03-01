@@ -1,0 +1,27 @@
+
+zuheyu_gq_01.png
+size: 459,169
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhy_01_1
+  rotate: false
+  xy: 2, 2
+  size: 165, 165
+  orig: 165, 165
+  offset: 0, 0
+  index: -1
+zhy_01_2
+  rotate: false
+  xy: 169, 12
+  size: 155, 155
+  orig: 155, 155
+  offset: 0, 0
+  index: -1
+zhy_01_3
+  rotate: true
+  xy: 326, 22
+  size: 145, 131
+  orig: 145, 131
+  offset: 0, 0
+  index: -1

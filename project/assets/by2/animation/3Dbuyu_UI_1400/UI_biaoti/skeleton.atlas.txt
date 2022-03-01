@@ -1,0 +1,27 @@
+
+skeleton.png
+size: 110,134
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qipao_img
+  rotate: true
+  xy: 26, 99
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+xiaoyuer
+  rotate: true
+  xy: 2, 2
+  size: 95, 106
+  orig: 95, 106
+  offset: 0, 0
+  index: -1
+yusai
+  rotate: true
+  xy: 2, 114
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1

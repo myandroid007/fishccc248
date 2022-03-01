@@ -1,0 +1,76 @@
+
+fish13.png
+size: 349,76
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan
+  rotate: true
+  xy: 283, 5
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+mao
+  rotate: false
+  xy: 309, 2
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 3
+  size: 153, 71
+  orig: 153, 71
+  offset: 0, 0
+  index: -1
+toukui
+  rotate: true
+  xy: 273, 37
+  size: 37, 28
+  orig: 37, 28
+  offset: 0, 0
+  index: -1
+yuqi1
+  rotate: false
+  xy: 241, 2
+  size: 40, 17
+  orig: 40, 17
+  offset: 0, 0
+  index: -1
+yuqi2
+  rotate: false
+  xy: 309, 28
+  size: 38, 23
+  orig: 38, 23
+  offset: 0, 0
+  index: -1
+yuqi3
+  rotate: false
+  xy: 303, 53
+  size: 43, 21
+  orig: 43, 21
+  offset: 0, 0
+  index: -1
+yuqi4
+  rotate: true
+  xy: 241, 21
+  size: 53, 30
+  orig: 55, 30
+  offset: 0, 0
+  index: -1
+yuqiyy
+  rotate: false
+  xy: 273, 23
+  size: 34, 12
+  orig: 34, 12
+  offset: 0, 0
+  index: -1
+yuwei
+  rotate: true
+  xy: 157, 3
+  size: 71, 82
+  orig: 71, 82
+  offset: 0, 0
+  index: -1

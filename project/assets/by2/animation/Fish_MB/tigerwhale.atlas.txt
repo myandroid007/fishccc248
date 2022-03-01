@@ -1,0 +1,41 @@
+
+tigerwhale.png
+size: 324,156
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img-01
+  rotate: false
+  xy: 218, 43
+  size: 79, 56
+  orig: 79, 56
+  offset: 0, 0
+  index: -1
+img-02
+  rotate: false
+  xy: 218, 101
+  size: 104, 53
+  orig: 104, 53
+  offset: 0, 0
+  index: -1
+img-03
+  rotate: false
+  xy: 2, 3
+  size: 214, 151
+  orig: 214, 151
+  offset: 0, 0
+  index: -1
+img-05
+  rotate: false
+  xy: 299, 83
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+img-07
+  rotate: false
+  xy: 218, 2
+  size: 59, 39
+  orig: 59, 39
+  offset: 0, 0
+  index: -1

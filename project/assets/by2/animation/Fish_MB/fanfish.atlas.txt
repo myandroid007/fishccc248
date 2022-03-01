@@ -1,0 +1,34 @@
+
+fanfish.png
+size: 149,73
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img_1
+  rotate: false
+  xy: 2, 6
+  size: 41, 17
+  orig: 41, 17
+  offset: 0, 0
+  index: -1
+img_2
+  rotate: false
+  xy: 45, 2
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+img_4
+  rotate: false
+  xy: 2, 25
+  size: 98, 46
+  orig: 98, 46
+  offset: 0, 0
+  index: -1
+img_5
+  rotate: true
+  xy: 102, 9
+  size: 62, 45
+  orig: 62, 45
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,97 @@
+
+sawtoothshark.png
+size: 173,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fish_Bi
+  rotate: false
+  xy: 84, 55
+  size: 70, 20
+  orig: 71, 21
+  offset: 0, 1
+  index: -1
+Fish_Body
+  rotate: false
+  xy: 2, 77
+  size: 169, 63
+  orig: 170, 63
+  offset: 0, 0
+  index: -1
+Fish_R_Eye
+  rotate: false
+  xy: 144, 8
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+Fish_Tail
+  rotate: false
+  xy: 2, 30
+  size: 80, 45
+  orig: 81, 46
+  offset: 0, 1
+  index: -1
+Fish_Ya_01
+  rotate: true
+  xy: 158, 44
+  size: 11, 9
+  orig: 12, 10
+  offset: 0, 1
+  index: -1
+Fish_Ya_02
+  rotate: false
+  xy: 84, 28
+  size: 59, 25
+  orig: 59, 25
+  offset: 0, 0
+  index: -1
+Fish_YanPi
+  rotate: false
+  xy: 61, 8
+  size: 20, 20
+  orig: 20, 21
+  offset: 0, 1
+  index: -1
+Fish_YanQiu
+  rotate: false
+  xy: 124, 7
+  size: 18, 19
+  orig: 18, 20
+  offset: 0, 1
+  index: -1
+Fish_YanZhu
+  rotate: false
+  xy: 158, 35
+  size: 6, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+Fish_YuQi_01
+  rotate: false
+  xy: 83, 5
+  size: 39, 21
+  orig: 39, 21
+  offset: 0, 0
+  index: -1
+Fish_YuQi_02
+  rotate: true
+  xy: 156, 57
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+Fish_YuQi_03
+  rotate: false
+  xy: 2, 2
+  size: 57, 26
+  orig: 57, 27
+  offset: 0, 1
+  index: -1
+Fish_YuQi_04
+  rotate: true
+  xy: 145, 28
+  size: 25, 11
+  orig: 25, 12
+  offset: 0, 1
+  index: -1

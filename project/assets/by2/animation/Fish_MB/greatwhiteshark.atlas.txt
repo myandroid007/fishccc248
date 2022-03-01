@@ -1,0 +1,55 @@
+
+greatwhiteshark.png
+size: 361,119
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img_01
+  rotate: false
+  xy: 323, 18
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+img_02
+  rotate: true
+  xy: 321, 45
+  size: 72, 38
+  orig: 72, 38
+  offset: 0, 0
+  index: -1
+img_03
+  rotate: true
+  xy: 303, 7
+  size: 34, 18
+  orig: 34, 18
+  offset: 0, 0
+  index: -1
+img_04
+  rotate: false
+  xy: 239, 7
+  size: 62, 34
+  orig: 62, 34
+  offset: 0, 0
+  index: -1
+img_05
+  rotate: false
+  xy: 323, 2
+  size: 29, 14
+  orig: 29, 14
+  offset: 0, 0
+  index: -1
+img_06
+  rotate: false
+  xy: 2, 11
+  size: 235, 106
+  orig: 235, 106
+  offset: 0, 0
+  index: -1
+img_07
+  rotate: false
+  xy: 239, 43
+  size: 80, 74
+  orig: 80, 74
+  offset: 0, 0
+  index: -1

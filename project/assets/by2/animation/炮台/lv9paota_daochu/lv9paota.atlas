@@ -1,0 +1,48 @@
+
+lv9paota.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1paokou_img
+  rotate: true
+  xy: 116, 2
+  size: 48, 58
+  orig: 48, 58
+  offset: 0, 0
+  index: -1
+1paoshen_img
+  rotate: false
+  xy: 2, 35
+  size: 112, 87
+  orig: 112, 87
+  offset: 0, 0
+  index: -1
+2paokou_img
+  rotate: false
+  xy: 222, 91
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+2paoshen_img
+  rotate: false
+  xy: 116, 52
+  size: 51, 70
+  orig: 51, 70
+  offset: 0, 0
+  index: -1
+3paokou_img
+  rotate: false
+  xy: 2, 2
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+3paoshen_img
+  rotate: false
+  xy: 169, 52
+  size: 51, 70
+  orig: 51, 70
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+cj_haidishijie_4.png
+size: 134,172
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img_14
+  rotate: false
+  xy: 81, 57
+  size: 44, 53
+  orig: 44, 54
+  offset: 0, 1
+  index: -1
+img_15
+  rotate: true
+  xy: 62, 11
+  size: 44, 60
+  orig: 44, 61
+  offset: 0, 1
+  index: -1
+img_16
+  rotate: false
+  xy: 2, 70
+  size: 77, 100
+  orig: 77, 101
+  offset: 0, 1
+  index: -1
+img_17
+  rotate: false
+  xy: 2, 2
+  size: 58, 66
+  orig: 59, 67
+  offset: 0, 1
+  index: -1
+img_18
+  rotate: false
+  xy: 81, 112
+  size: 51, 58
+  orig: 52, 60
+  offset: 0, 2
+  index: -1

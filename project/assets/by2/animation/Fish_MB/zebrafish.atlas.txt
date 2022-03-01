@@ -1,0 +1,55 @@
+
+zebrafish.png
+size: 138,46
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img_1
+  rotate: false
+  xy: 17, 2
+  size: 8, 8
+  orig: 10, 10
+  offset: 1, 1
+  index: -1
+img_2
+  rotate: false
+  xy: 109, 11
+  size: 13, 33
+  orig: 13, 33
+  offset: 0, 0
+  index: -1
+img_3
+  rotate: true
+  xy: 93, 8
+  size: 36, 14
+  orig: 36, 14
+  offset: 0, 0
+  index: -1
+img_4
+  rotate: true
+  xy: 124, 30
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+img_41
+  rotate: true
+  xy: 2, 5
+  size: 5, 13
+  orig: 5, 13
+  offset: 0, 0
+  index: -1
+img_5
+  rotate: false
+  xy: 2, 12
+  size: 89, 32
+  orig: 89, 32
+  offset: 0, 0
+  index: -1
+img_6
+  rotate: false
+  xy: 124, 19
+  size: 9, 9
+  orig: 11, 11
+  offset: 1, 1
+  index: -1

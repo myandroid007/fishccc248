@@ -1,0 +1,97 @@
+
+fish18.png
+size: 495,140
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chujiao1
+  rotate: true
+  xy: 98, 24
+  size: 114, 87
+  orig: 114, 87
+  offset: 0, 0
+  index: -1
+chujiao2
+  rotate: false
+  xy: 347, 34
+  size: 85, 104
+  orig: 98, 104
+  offset: 0, 0
+  index: -1
+qianziyou
+  rotate: false
+  xy: 187, 77
+  size: 158, 61
+  orig: 162, 65
+  offset: 2, 2
+  index: -1
+qianziyou2
+  rotate: false
+  xy: 434, 36
+  size: 59, 46
+  orig: 59, 46
+  offset: 0, 0
+  index: -1
+qianzizuo
+  rotate: true
+  xy: 187, 9
+  size: 66, 93
+  orig: 70, 97
+  offset: 2, 2
+  index: -1
+qianzizuo2
+  rotate: false
+  xy: 434, 2
+  size: 54, 32
+  orig: 58, 36
+  offset: 2, 2
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 3
+  size: 135, 94
+  orig: 197, 157
+  offset: 47, 31
+  index: -1
+touying1
+  rotate: true
+  xy: 282, 48
+  size: 27, 30
+  orig: 31, 34
+  offset: 2, 2
+  index: -1
+touying2
+  rotate: false
+  xy: 112, 2
+  size: 8, 20
+  orig: 12, 24
+  offset: 2, 2
+  index: -1
+weiba
+  rotate: false
+  xy: 434, 84
+  size: 59, 54
+  orig: 59, 54
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 98, 4
+  size: 12, 18
+  orig: 16, 22
+  offset: 2, 2
+  index: -1
+zuobiyan
+  rotate: false
+  xy: 314, 51
+  size: 24, 24
+  orig: 28, 28
+  offset: 2, 2
+  index: -1
+zuoyan
+  rotate: false
+  xy: 314, 26
+  size: 24, 23
+  orig: 28, 27
+  offset: 2, 2
+  index: -1

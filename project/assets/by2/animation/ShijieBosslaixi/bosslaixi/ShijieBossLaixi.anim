@@ -1,0 +1,833 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "ShijieBossLaixi",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 3.4,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "BG": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 1280,
+              "curve": [
+                0.2827630598999892,
+                1.1440451111820404,
+                0.669770188317906,
+                1.2260878816895415
+              ]
+            },
+            {
+              "frame": 0.2,
+              "value": 0
+            },
+            {
+              "frame": 2.6666666666666665,
+              "value": 0
+            },
+            {
+              "frame": 3.4,
+              "value": -358.453
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 2.6666666666666665,
+              "value": 255
+            },
+            {
+              "frame": 3.4,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "wenzi1": {
+        "props": {
+          "x": [
+            {
+              "frame": 0.06666666666666667,
+              "value": 1445.653
+            },
+            {
+              "frame": 0.26666666666666666,
+              "value": 45.418
+            },
+            {
+              "frame": 2.3333333333333335,
+              "value": 45.418
+            },
+            {
+              "frame": 3.066666666666667,
+              "value": -55.324
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 2.3333333333333335,
+              "value": 255
+            },
+            {
+              "frame": 3.066666666666667,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "wenzi2": {
+        "props": {
+          "x": [
+            {
+              "frame": 0.1,
+              "value": 1504.498
+            },
+            {
+              "frame": 0.3,
+              "value": 166.414
+            },
+            {
+              "frame": 2.5,
+              "value": 166.414
+            },
+            {
+              "frame": 3.2333333333333334,
+              "value": 44.587
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 2.5,
+              "value": 255
+            },
+            {
+              "frame": 3.2333333333333334,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "wz3": {
+        "props": {
+          "x": [
+            {
+              "frame": 0.2,
+              "value": 1313.142
+            },
+            {
+              "frame": 0.4,
+              "value": -21.018
+            },
+            {
+              "frame": 2.6666666666666665,
+              "value": -21.018
+            },
+            {
+              "frame": 3.4,
+              "value": -140.502
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 2.6666666666666665,
+              "value": 255
+            },
+            {
+              "frame": 3.4,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "wenzi1/wenzi_2": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0.5,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              },
+              "curve": "linear"
+            },
+            {
+              "frame": 0.7333333333333333,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.5,
+                "y": 1.5
+              },
+              "curve": "constant"
+            },
+            {
+              "frame": 1.5,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              },
+              "curve": "linear"
+            },
+            {
+              "frame": 1.7333333333333334,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.5,
+                "y": 1.5
+              },
+              "curve": "constant"
+            },
+            {
+              "frame": 2.5,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              },
+              "curve": "linear"
+            },
+            {
+              "frame": 2.7333333333333334,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.5,
+                "y": 1.5
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.5,
+              "value": 255
+            },
+            {
+              "frame": 0.7333333333333333,
+              "value": 0,
+              "curve": "constant"
+            },
+            {
+              "frame": 1.5,
+              "value": 255
+            },
+            {
+              "frame": 1.7333333333333334,
+              "value": 0,
+              "curve": "constant"
+            },
+            {
+              "frame": 2.5,
+              "value": 255
+            },
+            {
+              "frame": 2.7333333333333334,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "wenzi1/wenzi_3": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0.8333333333333334,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              },
+              "curve": "linear"
+            },
+            {
+              "frame": 1.0666666666666667,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.5,
+                "y": 1.5
+              },
+              "curve": "constant"
+            },
+            {
+              "frame": 1.8333333333333333,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              },
+              "curve": "linear"
+            },
+            {
+              "frame": 2.066666666666667,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.5,
+                "y": 1.5
+              },
+              "curve": "constant"
+            },
+            {
+              "frame": 2.8333333333333335,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              },
+              "curve": "linear"
+            },
+            {
+              "frame": 3.066666666666667,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.5,
+                "y": 1.5
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.8333333333333334,
+              "value": 255
+            },
+            {
+              "frame": 1.0666666666666667,
+              "value": 0,
+              "curve": "constant"
+            },
+            {
+              "frame": 1.8333333333333333,
+              "value": 255
+            },
+            {
+              "frame": 2.066666666666667,
+              "value": 0,
+              "curve": "constant"
+            },
+            {
+              "frame": 2.8333333333333335,
+              "value": 255
+            },
+            {
+              "frame": 3.066666666666667,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "wenzi1/wenzi_4": {
+        "props": {
+          "scale": [
+            {
+              "frame": 1.1666666666666667,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              },
+              "curve": "linear"
+            },
+            {
+              "frame": 1.4,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.5,
+                "y": 1.5
+              },
+              "curve": "constant"
+            },
+            {
+              "frame": 2.1666666666666665,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              },
+              "curve": "linear"
+            },
+            {
+              "frame": 2.4,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.5,
+                "y": 1.5
+              },
+              "curve": "constant"
+            },
+            {
+              "frame": 3.1666666666666665,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              },
+              "curve": "linear"
+            },
+            {
+              "frame": 3.4,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.5,
+                "y": 1.5
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 1.1666666666666667,
+              "value": 255
+            },
+            {
+              "frame": 1.4,
+              "value": 0,
+              "curve": "constant"
+            },
+            {
+              "frame": 2.1666666666666665,
+              "value": 255
+            },
+            {
+              "frame": 2.4,
+              "value": 0,
+              "curve": "constant"
+            },
+            {
+              "frame": 3.1666666666666665,
+              "value": 255
+            },
+            {
+              "frame": 3.4,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "shanguang": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 255
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 200
+            },
+            {
+              "frame": 1,
+              "value": 255
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": 200
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": 255
+            },
+            {
+              "frame": 2,
+              "value": 200
+            },
+            {
+              "frame": 2.3333333333333335,
+              "value": 255
+            },
+            {
+              "frame": 2.6666666666666665,
+              "value": 200
+            },
+            {
+              "frame": 3,
+              "value": 255
+            },
+            {
+              "frame": 3.3333333333333335,
+              "value": 0
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.1,
+                "y": 1.1
+              }
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 1,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.1,
+                "y": 1.1
+              }
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.1,
+                "y": 1.1
+              }
+            },
+            {
+              "frame": 2,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 2.3333333333333335,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.1,
+                "y": 1.1
+              }
+            },
+            {
+              "frame": 2.6666666666666665,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 3,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.1,
+                "y": 1.1
+              }
+            },
+            {
+              "frame": 3.3333333333333335,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ]
+        }
+      },
+      "shanguang_1": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 150
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 255
+            },
+            {
+              "frame": 1,
+              "value": 150
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": 255
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": 150
+            },
+            {
+              "frame": 2,
+              "value": 255
+            },
+            {
+              "frame": 2.3333333333333335,
+              "value": 150
+            },
+            {
+              "frame": 2.6666666666666665,
+              "value": 255
+            },
+            {
+              "frame": 3,
+              "value": 150
+            },
+            {
+              "frame": 3.3333333333333335,
+              "value": 0
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.1,
+                "y": 1.1
+              }
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.1,
+                "y": 1.1
+              }
+            },
+            {
+              "frame": 1,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.1,
+                "y": 1.1
+              }
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 2,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.1,
+                "y": 1.1
+              }
+            },
+            {
+              "frame": 2.3333333333333335,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 2.6666666666666665,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.1,
+                "y": 1.1
+              }
+            },
+            {
+              "frame": 3,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 3.3333333333333335,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.1,
+                "y": 1.1
+              }
+            }
+          ]
+        }
+      },
+      "fish34": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 1039.113,
+              "curve": "cubicOut"
+            },
+            {
+              "frame": 0.2,
+              "value": -350
+            },
+            {
+              "frame": 2.6666666666666665,
+              "value": -350
+            },
+            {
+              "frame": 3.4,
+              "value": -619.426
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 2.6666666666666665,
+              "value": 255
+            },
+            {
+              "frame": 3.4,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "wenzi/Mask_S": {
+        "props": {
+          "x": [
+            {
+              "frame": 0.13333333333333333,
+              "value": 1338.202,
+              "curve": "cubicOut"
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 11.086
+            }
+          ]
+        }
+      },
+      "wenzi/Mask_X": {
+        "props": {
+          "x": [
+            {
+              "frame": 0.16666666666666666,
+              "value": 1319.35,
+              "curve": "cubicOut"
+            },
+            {
+              "frame": 0.36666666666666664,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "wenzi/Mask_S/Zi_s": {
+        "props": {
+          "x": [
+            {
+              "frame": 0.3333333333333333,
+              "value": 0.086
+            },
+            {
+              "frame": 3.4,
+              "value": -200
+            }
+          ]
+        }
+      },
+      "wenzi/Mask_S/Zi_s1": {
+        "props": {
+          "x": [
+            {
+              "frame": 0.3333333333333333,
+              "value": 1100
+            },
+            {
+              "frame": 3.4,
+              "value": 900
+            }
+          ]
+        }
+      },
+      "wenzi/Mask_X/Zi_x": {
+        "props": {
+          "x": [
+            {
+              "frame": 0.3333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 3.4,
+              "value": -200
+            }
+          ]
+        }
+      },
+      "wenzi/Mask_X/Zi_x1": {
+        "props": {
+          "x": [
+            {
+              "frame": 0.3333333333333333,
+              "value": 1100
+            },
+            {
+              "frame": 3.4,
+              "value": 900
+            }
+          ]
+        }
+      },
+      "wenzi": {
+        "props": {
+          "x": [
+            {
+              "frame": 2.6666666666666665,
+              "value": 0
+            },
+            {
+              "frame": 3.4,
+              "value": -100
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 2.6666666666666665,
+              "value": 255
+            },
+            {
+              "frame": 3.4,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

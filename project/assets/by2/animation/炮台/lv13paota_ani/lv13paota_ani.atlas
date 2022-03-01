@@ -1,0 +1,55 @@
+
+lv13paota_ani.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baoguo_img
+  rotate: false
+  xy: 2, 145
+  size: 160, 109
+  orig: 160, 109
+  offset: 0, 0
+  index: -1
+paoshe
+  rotate: true
+  xy: 164, 133
+  size: 121, 69
+  orig: 121, 69
+  offset: 0, 0
+  index: -1
+paotong_img
+  rotate: false
+  xy: 118, 60
+  size: 104, 71
+  orig: 104, 71
+  offset: 0, 0
+  index: -1
+shitou2_img
+  rotate: false
+  xy: 67, 41
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+shitou_img
+  rotate: false
+  xy: 67, 13
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+weiba2_img
+  rotate: false
+  xy: 2, 66
+  size: 114, 77
+  orig: 114, 77
+  offset: 0, 0
+  index: -1
+weiba_img
+  rotate: false
+  xy: 2, 2
+  size: 63, 56
+  orig: 63, 56
+  offset: 0, 0
+  index: -1

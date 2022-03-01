@@ -1,0 +1,153 @@
+
+Kissfish.png
+size: 170,78
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Hongxin
+  rotate: false
+  xy: 2, 2
+  size: 31, 27
+  orig: 32, 27
+  offset: 0, 0
+  index: -1
+L_biyan
+  rotate: false
+  xy: 148, 7
+  size: 10, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+L_body
+  rotate: false
+  xy: 63, 35
+  size: 55, 41
+  orig: 56, 42
+  offset: 0, 1
+  index: -1
+L_meimao
+  rotate: true
+  xy: 57, 2
+  size: 7, 5
+  orig: 8, 6
+  offset: 0, 1
+  index: -1
+L_tongkong
+  rotate: true
+  xy: 124, 4
+  size: 6, 5
+  orig: 7, 6
+  offset: 0, 1
+  index: -1
+L_yanqiu
+  rotate: true
+  xy: 35, 2
+  size: 7, 12
+  orig: 8, 13
+  offset: 0, 1
+  index: -1
+L_yuqi
+  rotate: true
+  xy: 92, 2
+  size: 8, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+L_yuqi_02
+  rotate: false
+  xy: 120, 43
+  size: 48, 33
+  orig: 48, 34
+  offset: 0, 1
+  index: -1
+L_yuqi_h
+  rotate: true
+  xy: 115, 12
+  size: 6, 14
+  orig: 6, 14
+  offset: 0, 0
+  index: -1
+L_yuqi_x
+  rotate: false
+  xy: 67, 10
+  size: 23, 11
+  orig: 24, 11
+  offset: 0, 0
+  index: -1
+L_yuwei
+  rotate: false
+  xy: 98, 12
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
+R_Jiemao
+  rotate: true
+  xy: 49, 2
+  size: 7, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+R_Yuqi
+  rotate: true
+  xy: 131, 6
+  size: 12, 15
+  orig: 12, 17
+  offset: 0, 2
+  index: -1
+R_biyan
+  rotate: false
+  xy: 64, 2
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+R_body
+  rotate: false
+  xy: 2, 31
+  size: 59, 45
+  orig: 65, 45
+  offset: 2, 0
+  index: -1
+R_meimao
+  rotate: true
+  xy: 92, 13
+  size: 8, 4
+  orig: 8, 5
+  offset: 0, 1
+  index: -1
+R_tongkong
+  rotate: false
+  xy: 72, 2
+  size: 5, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+R_yanqiu
+  rotate: true
+  xy: 109, 2
+  size: 8, 13
+  orig: 8, 14
+  offset: 0, 1
+  index: -1
+R_yuqi_02
+  rotate: false
+  xy: 67, 23
+  size: 29, 10
+  orig: 29, 11
+  offset: 0, 1
+  index: -1
+R_yuqi_03
+  rotate: false
+  xy: 120, 20
+  size: 46, 21
+  orig: 47, 22
+  offset: 0, 1
+  index: -1
+R_yuwei
+  rotate: true
+  xy: 35, 11
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1

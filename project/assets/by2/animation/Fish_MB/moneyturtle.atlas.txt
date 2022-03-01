@@ -1,0 +1,111 @@
+
+moneyturtle.png
+size: 372,264
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+D_Light02
+  rotate: false
+  xy: 290, 5
+  size: 36, 36
+  orig: 45, 45
+  offset: 5, 4
+  index: -1
+Light
+  rotate: false
+  xy: 179, 179
+  size: 128, 83
+  orig: 128, 83
+  offset: 0, 0
+  index: -1
+Light_02
+  rotate: false
+  xy: 2, 148
+  size: 175, 114
+  orig: 175, 115
+  offset: 0, 1
+  index: -1
+img_001
+  rotate: false
+  xy: 309, 56
+  size: 49, 33
+  orig: 49, 34
+  offset: 0, 1
+  index: -1
+img_1
+  rotate: true
+  xy: 91, 2
+  size: 28, 84
+  orig: 32, 84
+  offset: 0, 0
+  index: -1
+img_10
+  rotate: true
+  xy: 179, 39
+  size: 53, 75
+  orig: 54, 76
+  offset: 0, 1
+  index: -1
+img_11
+  rotate: true
+  xy: 290, 43
+  size: 49, 17
+  orig: 49, 18
+  offset: 0, 1
+  index: -1
+img_15
+  rotate: false
+  xy: 328, 14
+  size: 18, 16
+  orig: 18, 17
+  offset: 0, 1
+  index: -1
+img_16
+  rotate: false
+  xy: 328, 32
+  size: 26, 22
+  orig: 27, 22
+  offset: 0, 0
+  index: -1
+img_2
+  rotate: false
+  xy: 256, 5
+  size: 32, 87
+  orig: 32, 88
+  offset: 0, 1
+  index: -1
+img_3
+  rotate: true
+  xy: 2, 2
+  size: 28, 87
+  orig: 29, 88
+  offset: 0, 1
+  index: -1
+img_4
+  rotate: false
+  xy: 179, 94
+  size: 128, 83
+  orig: 128, 83
+  offset: 0, 0
+  index: -1
+img_5
+  rotate: false
+  xy: 2, 32
+  size: 175, 114
+  orig: 176, 115
+  offset: 0, 1
+  index: -1
+img_7
+  rotate: true
+  xy: 309, 165
+  size: 97, 61
+  orig: 97, 62
+  offset: 0, 1
+  index: -1
+img_9
+  rotate: false
+  xy: 309, 91
+  size: 46, 72
+  orig: 47, 73
+  offset: 0, 1
+  index: -1

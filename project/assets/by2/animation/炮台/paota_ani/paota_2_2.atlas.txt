@@ -1,0 +1,34 @@
+
+paota_2_2.png
+size: 138,146
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2-2_01
+  rotate: false
+  xy: 2, 18
+  size: 89, 32
+  orig: 89, 33
+  offset: 0, 1
+  index: -1
+2-2_02
+  rotate: false
+  xy: 2, 83
+  size: 115, 61
+  orig: 116, 62
+  offset: 0, 1
+  index: -1
+2-2_03
+  rotate: false
+  xy: 2, 52
+  size: 101, 29
+  orig: 102, 29
+  offset: 0, 0
+  index: -1
+2-2_04
+  rotate: true
+  xy: 105, 2
+  size: 79, 31
+  orig: 80, 31
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+spottedfish.png
+size: 203,60
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img_1
+  rotate: false
+  xy: 122, 38
+  size: 60, 20
+  orig: 60, 20
+  offset: 0, 0
+  index: -1
+img_2
+  rotate: false
+  xy: 153, 16
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+img_3
+  rotate: true
+  xy: 184, 39
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+img_4
+  rotate: false
+  xy: 122, 11
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+img_5
+  rotate: false
+  xy: 2, 2
+  size: 118, 56
+  orig: 118, 56
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+fish29.png
+size: 309,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan
+  rotate: false
+  xy: 253, 129
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+qi1
+  rotate: true
+  xy: 229, 2
+  size: 125, 71
+  orig: 125, 71
+  offset: 0, 0
+  index: -1
+qi2
+  rotate: false
+  xy: 253, 171
+  size: 54, 35
+  orig: 58, 35
+  offset: 0, 0
+  index: -1
+qi3
+  rotate: false
+  xy: 253, 145
+  size: 40, 24
+  orig: 40, 24
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 5
+  size: 249, 112
+  orig: 275, 112
+  offset: 0, 0
+  index: -1
+toukui
+  rotate: true
+  xy: 116, 136
+  size: 118, 135
+  orig: 118, 135
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: false
+  xy: 116, 50
+  size: 111, 84
+  orig: 111, 84
+  offset: 0, 0
+  index: -1
+weijia
+  rotate: true
+  xy: 253, 208
+  size: 46, 49
+  orig: 46, 49
+  offset: 0, 0
+  index: -1

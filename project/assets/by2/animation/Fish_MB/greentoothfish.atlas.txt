@@ -1,0 +1,27 @@
+
+greentoothfish.png
+size: 235,140
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shengti
+  rotate: false
+  xy: 2, 2
+  size: 179, 136
+  orig: 179, 136
+  offset: 0, 0
+  index: -1
+weoba
+  rotate: true
+  xy: 183, 21
+  size: 117, 28
+  orig: 117, 28
+  offset: 0, 0
+  index: -1
+yanpi
+  rotate: true
+  xy: 213, 105
+  size: 33, 20
+  orig: 33, 22
+  offset: 0, 1
+  index: -1

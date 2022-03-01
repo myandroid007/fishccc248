@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "61de8419-e15f-4cfd-a9b5-54d3a6e26b16",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 209,
+  "height": 203,
+  "platformSettings": {},
+  "subMetas": {
+    "Guangquan_02": {
+      "ver": "1.0.6",
+      "uuid": "d5732dd9-1dc5-47af-901a-eaced542e1bc",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "61de8419-e15f-4cfd-a9b5-54d3a6e26b16",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 209,
+      "height": 203,
+      "rawWidth": 209,
+      "rawHeight": 203,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
